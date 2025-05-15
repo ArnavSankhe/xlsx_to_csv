@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-input_path = r'C:\Users\ArnavSankhe\Desktop\dbt\Xlsx_to_csv\xlsx_to_csv\data_raw' #update inpur path
-output_path = r'C:\Users\ArnavSankhe\Desktop\dbt\Xlsx_to_csv\xlsx_to_csv\data_output' #update output path
+input_path = r'x' #update inpur path
+output_path = r'x' #update output path
 
 files = os.listdir(input_path)
 
